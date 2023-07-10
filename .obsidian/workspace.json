@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 현황 확인.md",
+                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 기록.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ccba91aa098efb35",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 기록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 기록.md"
               }
             }
           }
@@ -167,9 +166,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "22053b3d5a8d43b8",
+  "active": "d56440a5d50d2306",
   "lastOpenFiles": [
     "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 현황 확인.md",
+    "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 기록.md",
     "README.md",
     "주요기능 정리.md",
     "templates/basic.md",
