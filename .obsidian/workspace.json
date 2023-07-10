@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md",
+                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가 유형관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md",
+                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가 유형관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md",
+                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가 유형관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md"
+                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가 유형관리.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "22053b3d5a8d43b8",
   "lastOpenFiles": [
-    "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 기록.md",
+    "주요기능 정리.md",
+    "비즈니스/현행모델링/비즈니스현행모델링-휴가 유형관리.md",
     "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md",
+    "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 기록.md",
     "TODO.md",
+    "templates/basic.md",
+    "README.md",
     "비즈니스/현행모델링/비즈니스현행모델링-휴가사용량 확인.md",
     "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 현황 확인.md",
-    "주요기능 정리.md",
-    "README.md",
-    "templates/basic.md",
     "무제 파일.md"
   ]
 }
