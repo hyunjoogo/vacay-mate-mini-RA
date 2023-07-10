@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가유형 조회.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가유형 조회.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가유형 조회.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가유형 조회.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "22053b3d5a8d43b8",
   "lastOpenFiles": [
-    "유스케이스/유스케이스모델-휴가유형 등록.md",
+    "주요기능 정리.md",
+    "TODO.md",
     "유스케이스/유스케이스모델-휴가유형 조회.md",
+    "유스케이스/유스케이스모델-휴가유형.md",
+    "README.md",
+    "유스케이스/유스케이스모델-휴가유형 등록.md",
     "비즈니스/목표모델링/비즈니스목표모델링-휴가유형 관리.md",
     "비즈니스/목표모델링/비즈니스목표모델링-휴가현황 관리.md",
     "비즈니스/목표모델링/비즈니스목표모델링-휴가사용 및 기록.md",
@@ -157,10 +161,7 @@
     "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md",
     "비즈니스/비즈니스현행모델-문제점해결방안.md",
     "비즈니스/현행모델링/비즈니스현행모델링-휴가 유형관리.md",
-    "주요기능 정리.md",
-    "TODO.md",
     "templates/basic.md",
-    "README.md",
     "비즈니스/현행모델링/비즈니스현행모델링-휴가사용량 확인.md",
     "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 현황 확인.md",
     "무제 파일.md"
