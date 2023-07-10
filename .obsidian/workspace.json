@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c16b4bc793fb0cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "유스케이스/유스케이스모델-휴가유형 수정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가유형 등록.md",
+                "file": "유스케이스/유스케이스모델-휴가유형 수정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가유형 등록.md",
+                "file": "유스케이스/유스케이스모델-휴가유형 수정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가유형 등록.md"
+                "file": "유스케이스/유스케이스모델-휴가유형 수정.md"
               }
             }
           }
@@ -164,12 +177,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "94584da08a40b540",
+  "active": "c16b4bc793fb0cc2",
   "lastOpenFiles": [
     "유스케이스/유스케이스모델-휴가유형 상세조회.md",
+    "유스케이스/유스케이스모델-휴가유형 수정.md",
     "유스케이스/유스케이스모델-휴가유형 등록.md",
     "유스케이스/유스케이스모델-휴가유형 조회.md",
-    "유스케이스/유스케이스모델-휴가유형 변경.md",
     "주요기능 정리.md",
     "TODO.md",
     "README.md",
