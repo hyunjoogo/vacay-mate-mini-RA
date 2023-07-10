@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "931d7d7207f817b7",
-        "type": "split",
+        "id": "0744694076b79f82",
+        "type": "tabs",
         "children": [
           {
-            "id": "0744694076b79f82",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "22053b3d5a8d43b8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "유스케이스/유스케이스모델-휴가유형 등록.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "22053b3d5a8d43b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "유스케이스/유스케이스모델-휴가유형 등록.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "d379e0db2ce104e4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "81266e7505d27f99",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
