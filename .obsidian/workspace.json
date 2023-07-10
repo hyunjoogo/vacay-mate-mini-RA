@@ -6,7 +6,6 @@
       {
         "id": "0744694076b79f82",
         "type": "tabs",
-        "dimension": 48.24868651488616,
         "children": [
           {
             "id": "22053b3d5a8d43b8",
@@ -15,25 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가사용량 확인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "115caf749fdcbf1a",
-        "type": "tabs",
-        "dimension": 51.75131348511384,
-        "children": [
-          {
-            "id": "d56440a5d50d2306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 현황 확인.md",
                 "mode": "source",
                 "source": false
               }
