@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a6c0c009846aed6d",
@@ -44,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가사용 등록.md",
+                "file": "유스케이스/유스케이스모델-휴일 확인.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가사용 등록.md",
+                "file": "유스케이스/유스케이스모델-신청기간 산출.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가사용 등록.md",
+                "file": "유스케이스/유스케이스모델-신청기간 산출.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유스케이스/유스케이스모델-휴가사용 등록.md"
+                "file": "유스케이스/유스케이스모델-신청기간 산출.md"
               }
             }
           }
@@ -177,12 +176,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b23b38b96c4a9643",
+  "active": "c16b4bc793fb0cc2",
   "lastOpenFiles": [
-    "유스케이스/유스케이스모델-신청기간 산출.md",
-    "유스케이스/유스케이스모델-신청일수 산출.md",
-    "유스케이스/유스케이스모델-휴가사용 등록.md",
     "유스케이스/유스케이스모델-휴일 확인.md",
+    "유스케이스/유스케이스모델-신청기간 산출.md",
+    "유스케이스/유스케이스모델-휴가사용 등록.md",
+    "유스케이스/유스케이스모델-신청일수 산출.md",
     "유스케이스/유스케이스모델-사용휴가 조회.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 등록.md",
     "유스케이스/휴가유형",
