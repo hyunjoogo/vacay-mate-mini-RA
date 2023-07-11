@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유스케이스/연차생성/유스케이스모델-연차생성도우미.md",
+                "file": "유스케이스/연차생성/유스케이스모델-연차생성계산기.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유스케이스/연차생성/유스케이스모델-연차생성도우미.md",
+                "file": "유스케이스/연차생성/유스케이스모델-연차생성계산기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유스케이스/연차생성/유스케이스모델-연차생성도우미.md",
+                "file": "유스케이스/연차생성/유스케이스모델-연차생성계산기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유스케이스/연차생성/유스케이스모델-연차생성도우미.md"
+                "file": "유스케이스/연차생성/유스케이스모델-연차생성계산기.md"
               }
             }
           }
@@ -167,7 +167,7 @@
   "active": "c16b4bc793fb0cc2",
   "lastOpenFiles": [
     "유스케이스/휴가/유스케이스모델-신청기간 산출.md",
-    "유스케이스/연차생성/유스케이스모델-연차생성도우미.md",
+    "유스케이스/연차생성/유스케이스모델-연차생성계산기.md",
     "유스케이스/연차생성",
     "TODO.md",
     "유스케이스/휴가",
