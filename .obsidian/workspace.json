@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ccba91aa098efb35",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템모델링/백엔드/테이블 구조.md",
+                "file": "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템모델링/백엔드/테이블 구조.md",
+                "file": "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템모델링/백엔드/테이블 구조.md"
+                "file": "시스템모델링/프론트/시스템모델링-휴가유형 조회.md"
               }
             }
           }
@@ -164,10 +165,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c16b4bc793fb0cc2",
+  "active": "5386c47a28cc1f4b",
   "lastOpenFiles": [
-    "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
     "시스템모델링/백엔드/테이블 구조.md",
+    "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 조회.md",
     "유스케이스/휴가/유스케이스모델-휴가 조회.md",
     "시스템모델링/공통",
