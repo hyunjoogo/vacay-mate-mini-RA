@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb502eed652734a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "시스템모델링/프론트/시스템모델링-휴가유형 등록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0622bef6132c7ffc",
@@ -32,6 +45,18 @@
               "type": "markdown",
               "state": {
                 "file": "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1c38651852bff04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
+                "file": "시스템모델링/프론트/시스템모델링-휴가유형 등록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
+                "file": "시스템모델링/프론트/시스템모델링-휴가유형 등록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템모델링/프론트/시스템모델링-휴가유형 조회.md"
+                "file": "시스템모델링/프론트/시스템모델링-휴가유형 등록.md"
               }
             }
           }
@@ -164,13 +189,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a3864b7c390552b2",
+  "active": "bb502eed652734a3",
   "lastOpenFiles": [
+    "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
+    "시스템모델링/프론트/시스템모델링-휴가유형 등록.md",
+    "유스케이스/휴가유형/유스케이스모델-휴가유형 등록.md",
+    "유스케이스/휴가유형/유스케이스모델-휴가유형 조회.md",
     "TODO.md",
     "README.md",
-    "유스케이스/휴가유형/유스케이스모델-휴가유형 조회.md",
     "유스케이스/휴가/유스케이스모델-신청기간 산출.md",
-    "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 상세조회.md",
     "유스케이스/휴가/유스케이스모델-휴가 조회.md",
     "시스템모델링/백엔드/테이블 구조.md",
@@ -184,7 +211,6 @@
     "유스케이스/휴가",
     "유스케이스/유스케이스모델-신청일수 산출.md",
     "유스케이스/유스케이스모델-휴일 확인.md",
-    "유스케이스/휴가유형/유스케이스모델-휴가유형 등록.md",
     "유스케이스/휴가유형",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 수정.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 삭제.md",
@@ -196,7 +222,6 @@
     "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md",
     "비즈니스/비즈니스현행모델-문제점해결방안.md",
     "비즈니스/현행모델링/비즈니스현행모델링-휴가 유형관리.md",
-    "templates/basic.md",
-    "비즈니스/현행모델링/비즈니스현행모델링-휴가사용량 확인.md"
+    "templates/basic.md"
   ]
 }
