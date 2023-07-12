@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "6dfe6c71aad91437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "156b392fc5070f03",
             "type": "leaf",
             "state": {
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 등록.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 등록.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 등록.md"
+                "file": "README.md"
               }
             }
           }
@@ -239,10 +251,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "156b392fc5070f03",
+  "active": "6dfe6c71aad91437",
   "lastOpenFiles": [
-    "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 조회.md",
     "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 등록.md",
+    "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 조회.md",
     "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
     "시스템모델링/백엔드/테이블 구조.md",
     "시스템모델링/프론트/시스템모델링-휴가유형 등록.md",
