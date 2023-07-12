@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c16b4bc793fb0cc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "유스케이스/휴가유형/유스케이스모델-휴가유형 조회.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bb502eed652734a3",
             "type": "leaf",
             "state": {
@@ -31,38 +19,75 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "0622bef6132c7ffc",
-        "type": "tabs",
+        "id": "637757ce869072f7",
+        "type": "split",
         "children": [
           {
-            "id": "a3864b7c390552b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
-                "mode": "source",
-                "source": false
+            "id": "0622bef6132c7ffc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a3864b7c390552b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a1c38651852bff04",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TODO.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "a1c38651852bff04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
+            "id": "8e415c0a8d8f507c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c16b4bc793fb0cc2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "유스케이스/휴가유형/유스케이스모델-휴가유형 조회.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ed9dbc2dc7440519",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "유스케이스/휴가유형/유스케이스모델-휴가유형 등록.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
