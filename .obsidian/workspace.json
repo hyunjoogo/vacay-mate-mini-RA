@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "6dfe6c71aad91437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "156b392fc5070f03",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "637757ce869072f7",
@@ -72,7 +60,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 조회.md",
+                    "file": "시스템모델링/프론트/시스템모델링-휴가유형 상세조회.md",
                     "mode": "source",
                     "source": false
                   }
@@ -190,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "유스케이스/휴가유형/유스케이스모델-휴가유형 상세조회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "유스케이스/휴가유형/유스케이스모델-휴가유형 상세조회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "유스케이스/휴가유형/유스케이스모델-휴가유형 상세조회.md"
               }
             }
           }
@@ -251,15 +239,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6dfe6c71aad91437",
+  "active": "66ab725f2f7ba44e",
   "lastOpenFiles": [
+    "시스템모델링/프론트/시스템모델링-휴가유형 상세조회.md",
     "시스템모델링/프론트/시스템모델링-휴가유형 조회.md",
-    "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 등록.md",
-    "README.md",
-    "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 조회.md",
-    "시스템모델링/백엔드/테이블 구조.md",
     "시스템모델링/프론트/시스템모델링-휴가유형 등록.md",
     "TODO.md",
+    "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 조회.md",
+    "README.md",
+    "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 등록.md",
+    "시스템모델링/백엔드/테이블 구조.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 상세조회.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 등록.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 조회.md",
@@ -283,7 +272,6 @@
     "비즈니스/목표모델링/비즈니스목표모델링-휴가현황 관리.md",
     "비즈니스/목표모델링/비즈니스목표모델링-휴가사용 및 기록.md",
     "비즈니스/현행모델링/비즈니스현행모델링-휴가사용 기록.md",
-    "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md",
-    "비즈니스/비즈니스현행모델-문제점해결방안.md"
+    "비즈니스/현행모델링/비즈니스현행모델링-휴가 사용하기.md"
   ]
 }
