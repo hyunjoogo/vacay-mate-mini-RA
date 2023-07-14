@@ -41,44 +41,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 상세조회.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7e835eef3337eb9c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 필수항목 유효성 검사.md",
+                    "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 조회.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 3
-          },
-          {
-            "id": "73ac05af56282a2e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "13c46601ea350deb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "시스템모델링/프론트/시스템모델링-메시지 표시.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            "currentTab": 2
           },
           {
             "id": "5624cca1fc01e271",
@@ -165,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"메시지 표시\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템모델링/프론트/시스템모델링-메시지 표시.md",
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 조회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템모델링/프론트/시스템모델링-메시지 표시.md",
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 조회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템모델링/프론트/시스템모델링-메시지 표시.md"
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 조회.md"
               }
             }
           }
@@ -263,22 +233,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "13c46601ea350deb",
+  "active": "80a1c56cfb02ac1d",
   "lastOpenFiles": [
-    "시스템모델링/프론트/시스템모델링-경고 메시지 표시.md",
-    "시스템모델링/프론트/시스템모델링-메시지 표시.md",
+    "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 조회.md",
     "시스템모델링/프론트/휴가/시스템모델링-휴가 조회.md",
     "TODO.md",
-    "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 필수항목 유효성 검사.md",
     "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 상세조회.md",
+    "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 필수항목 유효성 검사.md",
+    "유스케이스/휴가/유스케이스모델-휴가 등록.md",
+    "시스템모델링/프론트/시스템모델링-경고 메시지 표시.md",
+    "시스템모델링/프론트/시스템모델링-메시지 표시.md",
     "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 등록.md",
-    "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 조회.md",
     "시스템모델링/백엔드/테이블 구조.md",
     "img_ 31.png",
     "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
     "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 조회.md",
     "시스템모델링/프론트/휴가",
-    "유스케이스/휴가/유스케이스모델-휴가 등록.md",
     "시스템모델링/프론트/휴가유형",
     "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 삭제.md",
     "시스템모델링/백엔드/시스테모델링-벡엔드-휴가유형 수정.md",
