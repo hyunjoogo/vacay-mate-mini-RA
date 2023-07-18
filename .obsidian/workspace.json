@@ -4,127 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5de1b6ad4002924b",
-        "type": "split",
+        "id": "356b62ecfdf53797",
+        "type": "tabs",
         "children": [
           {
-            "id": "91313fe8832866d4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8190cc26dd2598b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 조회.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7c2f0bbb81d656bf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "25cda0fca35cc22e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 등록.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "833a8f93fd1cbe39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "356b62ecfdf53797",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "833a8f93fd1cbe39",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "시스템모델링/백엔드/휴가/시스템모델링-백엔드-휴가 등록.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "5624cca1fc01e271",
-            "type": "split",
-            "children": [
-              {
-                "id": "0622bef6132c7ffc",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "7053c0e522f9080d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "TODO.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "4d97c40d11648833",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "시스템모델링/백엔드/테이블 구조.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "aa0847b8491a4652",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ed22d79a2211a638",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "유스케이스/휴가/유스케이스모델-휴가 등록.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템모델링/백엔드/휴가/시스템모델링-백엔드-휴가 등록.md",
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템모델링/백엔드/휴가/시스템모델링-백엔드-휴가 등록.md",
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템모델링/백엔드/휴가/시스템모델링-백엔드-휴가 등록.md"
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md"
               }
             }
           }
@@ -251,12 +146,63 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
+  "floating": {
+    "id": "8fc2659ab2631c9e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bf86eb45d6289251",
+        "type": "window",
+        "children": [
+          {
+            "id": "9529d584908859ca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7053c0e522f9080d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TODO.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4d97c40d11648833",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "시스템모델링/백엔드/테이블 구조.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1852,
+        "y": 65,
+        "width": 633,
+        "height": 980,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "833a8f93fd1cbe39",
   "lastOpenFiles": [
-    "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 등록.md",
-    "TODO.md",
+    "시스템모델링/백엔드/휴가유형/시스테모델링-백엔드-휴가유형 상세조회.md",
     "시스템모델링/백엔드/휴가/시스템모델링-백엔드-휴가 등록.md",
-    "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 조회.md",
+    "시스템모델링/백엔드/휴가유형",
+    "TODO.md",
+    "시스템모델링/백엔드/휴가유형/시스템모델링-백엔드-휴가유형 등록.md",
+    "시스템모델링/백엔드/휴가유형/시스템모델링-백엔드-휴가유형 조회.md",
     "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
     "시스템모델링/프론트/휴가/시스템모델링-휴가 조회.md",
     "시스템모델링/백엔드/휴가/시스템모델링-백엔드-휴가 조회.md",
@@ -275,21 +221,18 @@
     "img_ 31.png",
     "시스템모델링/프론트/휴가",
     "시스템모델링/프론트/휴가유형",
-    "시스템모델링/백엔드/시스템모델링-백엔드-휴가유형 삭제.md",
-    "시스템모델링/백엔드/시스테모델링-벡엔드-휴가유형 수정.md",
+    "시스템모델링/백엔드/휴가유형/시스템모델링-백엔드-휴가유형 삭제.md",
+    "시스템모델링/백엔드/휴가유형/시스테모델링-벡엔드-휴가유형 수정.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 삭제.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 상세조회.md",
-    "시스템모델링/백엔드/시스테모델링-백엔드-휴가유형 상세조회.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 수정.md",
     "README.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 등록.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 조회.md",
-    "유스케이스/휴가/유스케이스모델-신청기간 산출.md",
     "시스템모델링/공통",
     "시스템모델링/프론트",
     "시스템모델링/백엔드",
     "유스케이스/연차생성",
-    "유스케이스/휴가",
-    "유스케이스/휴가유형"
+    "유스케이스/휴가"
   ]
 }
