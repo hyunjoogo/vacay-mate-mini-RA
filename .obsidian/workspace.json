@@ -36,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9b2ceaf1c78b3347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "시스템모델링/프론트/휴가/시스템모델링-산정기간 산출-시간차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
