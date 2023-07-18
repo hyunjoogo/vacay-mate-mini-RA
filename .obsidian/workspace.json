@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ccba91aa098efb35",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md"
               }
             }
           }
@@ -165,15 +166,15 @@
     }
   },
   "floating": {
-    "id": "8fc2659ab2631c9e",
+    "id": "7579d1d3dca7b898",
     "type": "floating",
     "children": [
       {
-        "id": "bf86eb45d6289251",
+        "id": "0cd8a57cb51afcb2",
         "type": "window",
         "children": [
           {
-            "id": "9529d584908859ca",
+            "id": "00554a77c2d420fd",
             "type": "tabs",
             "children": [
               {
@@ -204,19 +205,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 65,
-        "width": 1024,
-        "height": 800,
+        "x": 950,
+        "y": 38,
+        "width": 600,
+        "height": 980,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "7053c0e522f9080d",
+  "active": "833a8f93fd1cbe39",
   "lastOpenFiles": [
-    "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
     "TODO.md",
+    "시스템모델링/백엔드/테이블 구조.md",
+    "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
     "시스템모델링/프론트/휴가/시스템모델링-산정기간 산출-시간차.md",
     "시스템모델링/프론트/휴가/시스템모델링-신청기간 일수계산.md",
     "시스템모델링/프론트/휴가/시스템모델링-휴일 확인.md",
@@ -231,7 +233,6 @@
     "유스케이스/휴가/유스케이스모델-휴가 등록.md",
     "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 등록.md",
     "유스케이스/휴가/유스케이스모델-휴가 조회.md",
-    "시스템모델링/백엔드/테이블 구조.md",
     "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 조회.md",
     "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 상세조회.md",
     "assets/휴가등록화면.png",
