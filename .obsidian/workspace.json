@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -204,19 +204,19 @@
           }
         ],
         "direction": "vertical",
-        "x": -1852,
+        "x": 0,
         "y": 65,
-        "width": 633,
-        "height": 980,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "833a8f93fd1cbe39",
+  "active": "7053c0e522f9080d",
   "lastOpenFiles": [
-    "TODO.md",
     "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
+    "TODO.md",
     "시스템모델링/프론트/휴가/시스템모델링-산정기간 산출-시간차.md",
     "시스템모델링/프론트/휴가/시스템모델링-신청기간 일수계산.md",
     "시스템모델링/프론트/휴가/시스템모델링-휴일 확인.md",
