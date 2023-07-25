@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "292fa321ff2987f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e1c5650dd2f435dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "시스템모델링/프론트/휴가/시스템모델링-신청기간 일수계산.md",
+                "file": "유스케이스/휴가/유스케이스모델-휴가 조회.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ccba91aa098efb35",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
+                "file": "유스케이스/휴가/유스케이스모델-휴가 조회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
+                "file": "유스케이스/휴가/유스케이스모델-휴가 조회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md"
+                "file": "유스케이스/휴가/유스케이스모델-휴가 조회.md"
               }
             }
           }
@@ -165,60 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "floating": {
-    "id": "7579d1d3dca7b898",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0cd8a57cb51afcb2",
-        "type": "window",
-        "children": [
-          {
-            "id": "00554a77c2d420fd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7053c0e522f9080d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "TODO.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4d97c40d11648833",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "시스템모델링/백엔드/테이블 구조.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 950,
-        "y": 38,
-        "width": 600,
-        "height": 980,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "833a8f93fd1cbe39",
   "lastOpenFiles": [
+    "유스케이스/휴가/유스케이스모델-휴가 등록.md",
+    "templates/basic.md",
+    "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
     "TODO.md",
     "시스템모델링/백엔드/테이블 구조.md",
-    "시스템모델링/프론트/휴가/시스템모델링-휴가 등록.md",
     "시스템모델링/프론트/휴가/시스템모델링-산정기간 산출-시간차.md",
     "시스템모델링/프론트/휴가/시스템모델링-신청기간 일수계산.md",
     "시스템모델링/프론트/휴가/시스템모델링-휴일 확인.md",
@@ -230,7 +164,6 @@
     "시스템모델링/프론트/휴가/시스템모델링-휴가 조회.md",
     "시스템모델링/백엔드/휴가/시스템모델링-백엔드-휴가 조회.md",
     "시스템모델링/백엔드/휴가",
-    "유스케이스/휴가/유스케이스모델-휴가 등록.md",
     "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 등록.md",
     "유스케이스/휴가/유스케이스모델-휴가 조회.md",
     "시스템모델링/프론트/휴가유형/시스템모델링-휴가유형 조회.md",
@@ -248,7 +181,6 @@
     "유스케이스/휴가유형/유스케이스모델-휴가유형 삭제.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 상세조회.md",
     "유스케이스/휴가유형/유스케이스모델-휴가유형 수정.md",
-    "README.md",
     "시스템모델링/공통",
     "시스템모델링/프론트",
     "시스템모델링/백엔드",
